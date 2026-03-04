@@ -1,16 +1,13 @@
-## Hi there 👋
+👩🏻‍💻 Caique Pereira
+🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor Back-end em formação
 
-<!--
-**caiquepdev/caiquepdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 24 anos, sou natural de Sorocaba/SP e sou formado em Análise e Desenvolvimento de Sistemas (ADS).
+Atualmente curso Ciência da Computação e estou focado em evoluir na área de desenvolvimento back-end.
 
-Here are some ideas to get you started:
+Tenho treinado e desenvolvido projetos utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python
+⚡ FastAPI
+🗄️ SQL
+🏗️ Arquitetura em camadas
